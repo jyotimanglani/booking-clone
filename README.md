@@ -6,18 +6,31 @@ Welcome to my Booking.com clone project! 🌐 This application replicates the co
 
 ### Home Page
 
+![Home Page](./screenshots/home.png)
+
 - **Location Selection**: Choose your desired location for booking.
+
+![Search Form Page](./screenshots/searchForm.png)
+
 - **Date Picker**: Select check-in and check-out dates.
 - **Guest Information**: Specify the number of adults, rooms, and children.
 
 ### Search Page
 
+![Search Page](./screenshots/searchPage.png)
+
+![Search](./screenshots/searchPage2.png)
+
 - **Search Results**: Browse available hotels based on your criteria.
+
+![Search Result Page](./screenshots/searchResult.png)
 
 ### Hotel Details
 
 - **Clickable Hotels**: Click on a hotel name to view detailed information.
 - **Redirect to Booking.com**: Experience a seamless transition to the official Booking.com page for the selected hotel.
+
+![Hotel Details Page](./screenshots/hotelDetails.png)
 
 ## Tech Stack
 
