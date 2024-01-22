@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Booking Clone
+
+Welcome to my Booking.com clone project! 🌐 This application replicates the core functionalities of Booking.com, offering a seamless booking experience.
+
+## Features
+
+### Home Page
+
+- **Location Selection**: Choose your desired location for booking.
+- **Date Picker**: Select check-in and check-out dates.
+- **Guest Information**: Specify the number of adults, rooms, and children.
+
+### Search Page
+
+- **Search Results**: Browse available hotels based on your criteria.
+
+### Hotel Details
+
+- **Clickable Hotels**: Click on a hotel name to view detailed information.
+- **Redirect to Booking.com**: Experience a seamless transition to the official Booking.com page for the selected hotel.
+
+## Tech Stack
+
+- **React**: Frontend library for building user interfaces.
+- **Next.js**: React framework for server-side rendering and easy project setup.
+- **Tailwind CSS**: Utility-first CSS framework for quick and responsive styling.
+- **Shadcn**: Stylish components enhancing the visual appeal of the application.
+- **Oxylabs**: Efficient web scraping for seamless data retrieval.
 
 ## Getting Started
 
-First, run the development server:
+1. Clone the repository: `git clone https://github.com/jyotimanglani/booking-clone.git`
+2. Install dependencies: `npm install`
+3. Run the development server: `npm run dev`
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Feel free to explore, tweak, and enhance this Booking.com clone. Happy coding! 🚀💻
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+**Note**: Ensure to handle sensitive information securely, especially if deploying the application.
